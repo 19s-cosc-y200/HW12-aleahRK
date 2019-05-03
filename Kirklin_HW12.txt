@@ -13,6 +13,9 @@ Date: 04/02/19
         }
 </style>
 
+should be a, not body
+Colors should be in HEX
+
 2) body	{	background-color: #FFF8DC;
           color: #000099;
           font-family: Arial, Helvetica, sans-serif;
